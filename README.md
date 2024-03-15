@@ -1,4 +1,4 @@
-# AI Investment Advisor with LLM and LangChain
+# InvestAI
 
 ## Project Overview
 
