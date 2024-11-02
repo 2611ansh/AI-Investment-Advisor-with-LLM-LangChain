@@ -4,6 +4,10 @@
 
 This project is an AI-powered Investment Advisor that provides investment recommendations based on a company's current financial performance and market trends. The advisor utilizes Large Language Models (LLMs) and the LangChain library to analyze financial data, news articles, and other relevant information to generate detailed investment theses.
 
+## 👉 Check out the demo
+
+![Description of GIF](./ufpwofsx2nmc4s4relrkdwyvc4zr.gif)
+
 ## Features
 
 - **News Analysis**: The advisor retrieves and analyzes recent news articles related to the company, providing insights into current financial events.
